@@ -195,11 +195,7 @@ Customer-Shopping-Behavior-Analysis
 
 ## Executive Dashboard
 
-> *(Add Screenshot Here)*
-
-```markdown
 ![Dashboard](Screenshots/Dashboard.png)
-```
 
 ---
 
