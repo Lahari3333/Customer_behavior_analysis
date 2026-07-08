@@ -198,7 +198,7 @@ Customer-Shopping-Behavior-Analysis
 > *(Add Screenshot Here)*
 
 ```markdown
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 ```
 
 ---
