@@ -183,15 +183,7 @@ Customer-Shopping-Behavior-Analysis
 │
 ├── screenshots
 │   ├── Dashboard.png
-│   ├── Customer Analysis.png
-│   ├── Product Analysis.png
-│   └── Subscription Analysis.png
 │
-├── sql
-│   └── Business_Queries.sql
-│
-├── python
-│   └── Data_Cleaning.ipynb
 │
 └── report
     └── Customer Shopping Behavior Analysis Report.pdf
